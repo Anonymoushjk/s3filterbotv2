@@ -35,7 +35,7 @@ UPLOADING: 30%
 
 
 ## DEPLOY ON HEROKU
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Samantha-a/DEVIL-V2)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Anonymoushjk/s3filterbotv2)
 
 #Hard Way
 

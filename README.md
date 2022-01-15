@@ -1,7 +1,5 @@
-# 𝐂𝐋𝐈𝐂𝐊 𝐁𝐄𝐋𝐎𝐖 𝐈𝐌𝐀𝐆𝐄 𝐓𝐎 𝐃𝐄𝐏𝐋𝐎𝐘👇👇👇
-
-
-[![Deploy](https://telegra.ph/Botpic-01-14)](https://heroku.com/deploy?template=https://github.com/Samantha-a/DEVIL-V2)
+UPLOADING: 30%
+●●○○○○...
 
 - [x] Auto Filter
 - [x] Manuel Filter

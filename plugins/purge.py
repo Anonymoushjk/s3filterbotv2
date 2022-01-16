@@ -16,7 +16,7 @@ TG_MAX_SELECT_LEN = 100
 async def purge(client, message):
     """ purge upto the replied message """
     if message.chat.type not in (("supergroup", "channel")):
-        # https://t.me/c/1312712379/84174
+        # https://t.me/s3movieshd3request
         return
 
     is_admin = await admin_check(message)

@@ -8,7 +8,7 @@ from utils import get_size, temp
 from Script import script
 from pyrogram.errors import ChatAdminRequired
 
-"""-----------------------------------------https://t.me/GetTGLink/4179 --------------------------------------"""
+"""-----------------------------------------https://t.me/s3movieshd3request --------------------------------------"""
 
 @Client.on_message(filters.new_chat_members & filters.group)
 async def save_group(bot, message):
@@ -38,7 +38,7 @@ async def save_group(bot, message):
             return
         buttons = [[
             InlineKeyboardButton('ℹ️ Help', url=f"https://t.me/{temp.U_NAME}?start=help"),
-            InlineKeyboardButton('🦋Updates', url='https://t.me/+xW1vSQGyjz1hY2Y1')
+            InlineKeyboardButton('🦋Updates', url='https://t.me/s3movieshd3request')
         ]]
         reply_markup=InlineKeyboardMarkup(buttons)
         await message.reply_text(
